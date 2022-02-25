@@ -15,7 +15,7 @@ while personas > 0:
     float = altura
     #Calculo del IBM, masa(m) (En kg) entre la estatura(h) (en metros) elevada al cuadrado **2
     IBM = peso / altura**2
-    #Le imprimos el IBM para que se ponga sad
+    #Le imprimos el IBM para que se ponga 
     print("IBM: " + str(IBM))
     #Hacemos las distintas validaciones
     if IBM < 18.49:
